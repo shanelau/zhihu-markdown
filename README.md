@@ -1,4 +1,3 @@
-zhihu-markdown
-==============
+# sails_temp
 
-知乎文章 html转markdown格式
+a [Sails](http://sailsjs.org) application
